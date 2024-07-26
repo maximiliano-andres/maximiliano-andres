@@ -1,7 +1,7 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Maximiliano Andrés Caniullan Lefiñir
 ============================================================================================================================================================
 
-\- Estudiante de Programación especializandome en NodeJS -
+\🔸🔸 Estudiante de Programación especializandome en NodeJS 🔸🔸
 ----------------------------------------------------------
 
 🔹🔸  Soy estudiante de Programación en la Universidad Mayor, apasionado por el desarrollo backend con una sólida base en Node.js, Python, MySQL y MongoDB. Mi experiencia como profesor deportivo (natación) me ha dotado de disciplina, adaptabilidad y habilidades para el trabajo en equipo. Y como estudiante mayormente autodidacta, me enfoco en resolver problemas y estoy continuamente aprendiendo nuevas tecnologías. Comprometido con el crecimiento profesional, busco oportunidades para expandir mis habilidades. 🔸🔹
