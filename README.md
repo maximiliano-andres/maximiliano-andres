@@ -9,36 +9,36 @@
 ### <div align="center">🔸🔸 Estudiante de Programación Dedicado a Dominar Node.js 🔸🔸</div>  
   
 
-🔹🔸 🎓 Estudiante de Programación en la Universidad Mayor
+🎓 Estudiante de Programación en la Universidad Mayor.
 
-🔹🔸 💻 Apasionado por el Desarrollo Backend
-         Tecnologías: Node.js, Python, MySQL, MongoDB
+💻 Apasionado por el Desarrollo Backend.
+- Tecnologías: Node.js, Python, MySQL, MongoDB
 
-🔹🔸 🌊 Experiencia en Natación como Profesor Deportivo
-         Habilidades Desarrolladas: Disciplina, adaptabilidad, trabajo en equipo
+🌊 Experiencia en Natación como Profesor Deportivo.
+- Habilidades Desarrolladas: Disciplina, adaptabilidad, trabajo en equipo
 
-🔹🔸 📚 Autodidacta y Resolvedor de Problemas
-         Siempre en busca de aprender nuevas tecnologías y mejorar mis habilidades.
+📚 Autodidacta y Resolvedor de Problemas. 
+- Siempre en busca de aprender nuevas tecnologías y mejorar mis habilidades.
 
-🔹🔸 🚀 Comprometido con el Crecimiento Profesional
-         En busca de oportunidades para expandir mis conocimientos y contribuir a proyectos desafiantes.
+🚀 Comprometido con el Crecimiento Profesional. 
+- En busca de oportunidades para expandir mis conocimientos y contribuir a proyectos desafiantes.
 
-🔹🔸 🌍  Actualmente vivo en Santiago, Chile.  
+🌍  Actualmente vivo en Santiago, Chile.  
   
 
-🔹🔸 ✉️  Pueden contactarme en max.andres1995@outlook.com  
+✉️  Pueden contactarme en max.andres1995@outlook.com  
   
 
-🔹🔸 🧠  Especializándome en Node JS, enfocado en el backend.  
+🧠  Especializándome en Node JS, enfocado en el backend.  
   
 
-🔹🔸 👨‍🎓 Autodidacta, formalizando mis conocimientos.  
+👨‍🎓 Autodidacta, formalizando mis conocimientos.  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Habilidades 
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +67,7 @@
 
 
 
-### DevOps  
+### DB 
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
