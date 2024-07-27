@@ -6,22 +6,33 @@
 # <div align="center">Hola 🙋‍♂️, Mi nombre es Maximiliano Andrés Caniullan Lefiñir</div>  
   
 
-### <div align="center">🔸🔸 Estudiante de Programación especializandome en NodeJS 🔸🔸</div>  
+### <div align="center">🔸🔸 Estudiante de Programación Dedicado a Dominar Node.js 🔸🔸</div>  
   
 
-🔹🔸 Soy estudiante de Programación en la Universidad Mayor, apasionado por el desarrollo backend con una sólida base en Node.js, Python, MySQL y MongoDB. Mi experiencia como profesor deportivo (natación) me ha dotado de disciplina, adaptabilidad y habilidades para el trabajo en equipo. Y como estudiante mayormente autodidacta, me enfoco en resolver problemas y estoy continuamente aprendiendo nuevas tecnologías. Comprometido con el crecimiento profesional, busco oportunidades para expandir mis habilidades. 🔸🔹  
+🔹🔸 🎓 Estudiante de Programación en la Universidad Mayor
+
+🔹🔸 💻 Apasionado por el Desarrollo Backend
+         Tecnologías: Node.js, Python, MySQL, MongoDB
+
+🔹🔸 🌊 Experiencia en Natación como Profesor Deportivo
+         Habilidades Desarrolladas: Disciplina, adaptabilidad, trabajo en equipo
+
+🔹🔸 📚 Autodidacta y Resolvedor de Problemas
+         Siempre en busca de aprender nuevas tecnologías y mejorar mis habilidades.
+
+🔹🔸 🚀 Comprometido con el Crecimiento Profesional
+         En busca de oportunidades para expandir mis conocimientos y contribuir a proyectos desafiantes.
+
+🔹🔸 🌍  Actualmente vivo en Santiago, Chile.  
   
 
-- 🌍  Actualmente vivo en Santiago, Chile.  
+🔹🔸 ✉️  Pueden contactarme en max.andres1995@outlook.com  
   
 
-- ✉️  Pueden contactarme en max.andres1995@outlook.com  
+🔹🔸 🧠  Especializándome en Node JS, enfocado en el backend.  
   
 
-- 🧠  Especializándome en Node JS, enfocado en el backend.  
-  
-
-- 👨‍🎓 Autodidacta, formalizando mis conocimientos.  
+🔹🔸 👨‍🎓 Autodidacta, formalizando mis conocimientos.  
   
 
 <br/>  
