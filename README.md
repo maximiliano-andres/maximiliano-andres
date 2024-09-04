@@ -4,6 +4,8 @@
 
 <h1 align="center">Hola, soy Maximiliano Andrés Caniullan Lefiñir 🙋‍♂️</h1>
 
+---
+
 <h3 align="center">🔸 Estudiante de Programación y Apasionado del Desarrollo Backend 🔸</h3>
 
 <p align="center">
@@ -14,6 +16,8 @@
   🚀 <strong>Comprometido con el Crecimiento Profesional</strong> y en busca de oportunidades desafiantes. <br>
   🌍 <strong>Actualmente en Santiago, Chile</strong>. <br>
 </p>
+
+---
 
 ---
 
