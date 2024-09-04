@@ -24,10 +24,19 @@
 <h2 align="center">🌟 Descubre mi Portafolio 🌟</h2>
 
 <p align="center">
+  Explora mis proyectos, habilidades y más en mi portafolio personal. ¡Haz clic en el enlace a continuación para ver más!
+</p>
+
+<p align="center">
   <a href="https://porfolio-maximiliano.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Visita%20mi%20Portafolio-%230A66C2.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Link"/>
   </a>
 </p>
+
+<p align="center">
+  <small>¡No dudes en contactarme si tienes alguna pregunta o si estás interesado en colaborar!</small>
+</p>
+
 
 ---
 
