@@ -6,15 +6,15 @@
 
 ---
 
-<h3 align="center">🔸 Estudiante de Programación y Apasionado del Desarrollo Backend 🔸</h3>
+<h3 align="center">🔸 Estudiante de Programación y Enfocado en el Desarrollo Backend 🔸</h3>
 
 <p align="center">
   🎓 <strong>Estudiante de Programación</strong> en la Universidad Mayor. <br>
-  💻 <strong>Apasionado por el Backend</strong> con experiencia en Node.js, Python, MySQL, y MongoDB. <br>
-  🌊 <strong>Profesor de Natación</strong> con habilidades en disciplina, adaptabilidad, y trabajo en equipo. <br>
-  📚 <strong>Autodidacta y Resolvedor de Problemas</strong> siempre en busca de nuevas tecnologías. <br>
+  💻 <strong>Enfocado en el Backend</strong> con experiencia en Node.js, Python, MySQL, y MongoDB. <br>
+  🌊 <strong>Ex Profesor de Natación</strong> con habilidades en disciplina, adaptabilidad, y trabajo en equipo. <br>
+  📚 <strong>Mayormente Autodidacta y Resolvedor de Problemas</strong> siempre en busca de nuevas tecnologías. <br>
   🚀 <strong>Comprometido con el Crecimiento Profesional</strong> y en busca de oportunidades desafiantes. <br>
-  🌍 <strong>Actualmente en Santiago, Chile</strong>. <br>
+  🌍 <strong>Actualmente en Vivo en Santiago, Chile</strong>. <br>
 </p>
 
 ---
