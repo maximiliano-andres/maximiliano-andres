@@ -4,11 +4,11 @@
 
 <div align="center">
   <h1>Hola 👋 / Hello 👋</h1>
-  <h3>I'm a <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Programming+Student;Tech+Enthusiast;Clean+Code+Lover" alt="Typing SVG" /></h3>
+  <h3>I'm a <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;FastAPI+%26+Node.js;Tech+Enthusiast;Clean+Code+Lover" alt="Typing SVG" /></h3>
   
   <p>
-    Desarrollador Backend · Estudiante de Programación · Apasionado por código limpio y APIs confiables.<br/>
-    <i>Backend Developer · Programming Student · Passionate about clean code and reliable APIs.</i>
+    Desarrollador Backend · Enfocado en realizar APIs confiables y código limpio · Además de usar arquitectura escalables de backend, diseño de APIs RESTful y pruebas automatizadas basadas en código nativo de Python y Node.js · Optimización de código y máximo rendimiento de aplicaciones.<br/> 
+    <i>Backend Developer · Passionate about clean code and reliable APIs · Focused on scalable backend architecture, RESTful API design, and automated testing with Python and Node.js · Optimizing code and maximizing application performance.</i>
   </p>
 </div>
 
@@ -16,9 +16,9 @@
 
 ### 🔭 Actualmente / Currently
 
-- 💻 Enfocado en **arquitectura de backend**, diseño de **APIs RESTful** y **pruebas automatizadas**.
-- 📘 Estudiante de Programación en la **Universidad Mayor**.
-- 🏊‍♂️ Ex profesor de natación — disciplina, liderazgo y trabajo en equipo.
+- 💻 Enfocado en **arquitectura de backend**, diseño de **APIs RESTful** y **pruebas automatizadas**. / _Focused on **backend architecture**, **RESTful API** design, and **automated testing**._
+- 📘 Egresado de Programador de la **Universidad Mayor** — mejorando mis habilidades para ser Desarrollador Backend. / _Programming Graduate from **Universidad Mayor** — enhancing skills to become a Backend Developer._
+- 🏊‍♂️ Deportista y Ex profesor de natación — disciplina, liderazgo y trabajo en equipo. / _Athlete and former Swimming Coach — discipline, leadership, and teamwork._
 
 ---
 
@@ -29,6 +29,7 @@
   **Languages & Frameworks**
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
@@ -38,6 +39,7 @@
   
   **Databases & Frontend**
   <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -51,6 +53,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
 </div>
