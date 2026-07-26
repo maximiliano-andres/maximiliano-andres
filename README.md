@@ -1,106 +1,137 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Maximiliano%20Andrés&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0D47A1&height=220&section=header&text=Maximiliano%20Andrés&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=20" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <h1>Hola 👋 / Hello 👋</h1>
-  <h3>I'm a <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;FastAPI+%26+Node.js;Tech+Enthusiast;Clean+Code+Lover" alt="Typing SVG" /></h3>
-  
-  <p>
-    Desarrollador Backend · Enfocado en realizar APIs confiables y código limpio · Además de usar arquitectura escalables de backend, diseño de APIs RESTful y pruebas automatizadas basadas en código nativo de Python y Node.js · Optimización de código y máximo rendimiento de aplicaciones.<br/> 
-    <i>Backend Developer · Passionate about clean code and reliable APIs · Focused on scalable backend architecture, RESTful API design, and automated testing with Python and Node.js · Optimizing code and maximizing application performance.</i>
-  </p>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=460&lines=Backend+Developer;Java+%7C+Python+%7C+Node.js;Clean+Architecture;APIs+RESTful+de+alto+rendimiento" alt="Typing SVG" />
+  </h3>
 </div>
 
----
-
-### 🔭 Actualmente / Currently
-
-- 💻 Enfocado en **arquitectura de backend**, diseño de **APIs RESTful** y **pruebas automatizadas**. / _Focused on **backend architecture**, **RESTful API** design, and **automated testing**._
-- 📘 Egresado de Programador de la **Universidad Mayor** — mejorando mis habilidades para ser Desarrollador Backend. / _Programming Graduate from **Universidad Mayor** — enhancing skills to become a Backend Developer._
-- 🏊‍♂️ Deportista y Ex profesor de natación — disciplina, liderazgo y trabajo en equipo. / _Athlete and former Swimming Coach — discipline, leadership, and teamwork._
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Chile-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20oportunidades-brightgreen?style=flat-square" />
+</p>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas / Technologies & Tools
+## 👋 Sobre mí
 
-<div align="left">
-  
-  **Languages & Frameworks**
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  
-  <br/>
-  
-  **Databases & Frontend**
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  
-  <br/>
-  
-  **Other Tools**
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+Desarrollador backend enfocado en construir **APIs confiables, escalables y de alto rendimiento** para entornos empresariales. Trabajo principalmente con **Java, Python y Node.js**, junto a bases de datos **SQL y NoSQL**, priorizando siempre rendimiento, seguridad y arquitecturas limpias y mantenibles.
 
-</div>
+Vengo de un camino distinto al típico: fui **deportista y profesor de natación**, y esa etapa me dejó disciplina, constancia y trabajo en equipo — cualidades que hoy aplico directamente en cómo abordo cada proyecto de software.
+
+> 🇬🇧 Backend developer focused on building **reliable, scalable, high-performance APIs** for enterprise environments. Working mainly with **Java, Python and Node.js**, alongside SQL and NoSQL databases, always prioritizing performance, security and clean, maintainable architecture. Former athlete and swimming coach — discipline and teamwork carried over into how I approach every project.
 
 ---
 
-### 🌟 Proyectos destacados / Featured projects
+## 🔭 Actualmente
 
-- 🚀 **[backend-tasks](https://github.com/maximiliano-andres/backend-tasks)** — API para gestión de tareas con Node.js + MySQL.
-- 🎨 **[Portfolio](https://portfolio-final-x6u8.onrender.com/Porfolio-maximiliano-andres)** — Sitio personal con proyectos y contacto.
+- 💻 Profundizando en **arquitectura de backend**, diseño de **APIs RESTful** y **pruebas automatizadas**
+- 📘 Egresado de Programación — **Universidad Mayor**
+- 🎯 Enfocado en escribir código limpio, mantenible y con foco en rendimiento
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Stack tecnológico
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximiliano-andres&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Maximiliano's stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliano-andres&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maximiliano-andres&theme=radical" alt="Profile Summary" />
+**Lenguajes & Frameworks**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+**Bases de datos (SQL & NoSQL)**
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+**Frontend & UI**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+**Herramientas**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
 </div>
 
 ---
 
-### 📬 Connect with me / Contacto
+## 🌟 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 backend-tasks</h3>
+      <p align="center">API para gestión de tareas construida con <b>Node.js + MySQL</b>, orientada a operaciones CRUD limpias y bien estructuradas.</p>
+      <p align="center">
+        <a href="https://github.com/maximiliano-andres/backend-tasks"><img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎨 Portafolio personal</h3>
+      <p align="center">Sitio web personal con mis proyectos, experiencia y datos de contacto.</p>
+      <p align="center">
+        <a href="https://portfolio-final-x6u8.onrender.com/Porfolio-maximiliano-andres"><img src="https://img.shields.io/badge/Ver%20portafolio-2196F3?style=for-the-badge&logo=render&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maximiliano-andres&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Maximiliano's stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliano-andres&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliano-andres&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📬 Contacto
 
 <div align="center">
   <a href="https://linkedin.com/in/maximiliano-andres" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@FrijolitoxCodea" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:maximiliano.andres@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-final-x6u8.onrender.com/Porfolio-maximiliano-andres" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maximiliano-andres&color=blue" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maximiliano-andres&color=2196F3&style=flat-square&label=Visitas+al+perfil" alt="Profile Views" />
+</div>
 
 <div align="center">
-  <p>Visita mi portafolio / Visit my portfolio:<br/> <a href="https://portfolio-final-x6u8.onrender.com/Porfolio-maximiliano-andres" target="_blank"><b>portfolio-final-x6u8.onrender.com</b></a></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2196F3&height=100&section=footer" />
 </div>
